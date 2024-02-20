@@ -3,3 +3,5 @@ class Wall:
     height = 5
 
     # write your code here
+    def fortify(this):
+        this.armor *= 2
